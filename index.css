@@ -177,7 +177,7 @@ main .content_main img {
   text-transform: uppercase;
 }
 .available_table tbody tr > *:last-child {
-  color: #488f47;
+  color: #000000;
 }
 
 /* footer */
